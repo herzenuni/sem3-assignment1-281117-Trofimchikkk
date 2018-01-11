@@ -1,4 +1,4 @@
-from task2 import digits_pow_sum
+from 2 import digits_pow_sum
 
 def test_1():
 	lst = list()
