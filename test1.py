@@ -1,4 +1,4 @@
-from task1 import digits_sum
+from 1 import digits_sum
 
 def factory(number, my_sum):
 	def abstract_test():
