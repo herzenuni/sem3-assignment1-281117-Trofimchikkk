@@ -10,4 +10,4 @@ def start():
 	print("Sum of digits in {} = {}".format(number, sum_of_digits(number)))
 
 if __name__ == "__main__":
-start()
+	start()
